@@ -1,0 +1,18 @@
+algoritmo "Salario + 30%"
+// Função :
+// Autor : Guilherme Braatz Vetter
+// Data : 03/11/2022
+// Seção de Declarações 
+var
+salario1, salario30 : Real
+inicio
+Escreval("Informe o salario base:")
+leia(salario1)
+salario30 <- salario1 * 1.3
+Escreval("Seu salario com acrescimo de 30% é de R$", salario30)
+
+
+
+
+
+fimalgoritmo
